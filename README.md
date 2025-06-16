@@ -47,7 +47,7 @@ project1/
 
 ## Credits
 
-- Navbar color inspiration: [Amazon](https://www.amazon.com/)
+- Navbar inspiration: [Amazon](https://www.amazon.com/)
 - Background images: Unsplash
 
 ---
